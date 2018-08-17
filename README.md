@@ -1,2 +1,2 @@
-# Algoithms-in-C-
+# Algorithms-in-C-
 Algorithms written in C++11 

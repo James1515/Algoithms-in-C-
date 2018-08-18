@@ -6,7 +6,7 @@
 //=======================================
 
 #include <iostream>
-
+#include <string.h>
 //Struct of Type Node:
 struct Node 
 {
